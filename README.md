@@ -1,0 +1,2 @@
+# TinDog-startup
+Learning Bootstrap
